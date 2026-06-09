@@ -24,18 +24,26 @@ A comprehensive collection of **Data Structures & Algorithms** implemented in Ja
 - Majority element (Moore's Voting Algorithm)
 - Product of array except self
 
-### 4. Binary Search & Variants
+### 4. Mathematical Utilities
+- Prime check
+- Sieve of Eratosthenes
+- Armstrong number
+- GCD & LCM
+- Palindrome number
+- Fast exponentiation (power)
+
+### 5. Binary Search & Variants
 - Standard binary search
 - Search in rotated sorted array
 - Peak index in mountain array
 - Single element in sorted array
 
-### 5. Allocation Problems
+### 6. Allocation Problems
 - Book allocation
 - Painter's partition
 - Aggressive cows
 
-### 6. Sorting Algorithms
+### 7. Sorting Algorithms
 - Bubble sort
 - Selection sort
 - Insertion sort
@@ -44,7 +52,7 @@ A comprehensive collection of **Data Structures & Algorithms** implemented in Ja
 - Inversion count
 - Count of smaller numbers after self
 
-### 7. Recursion & Backtracking
+### 8. Recursion & Backtracking
 - Factorial, Fibonacci, sum of N numbers
 - Generate all subsets (with/without duplicates)
 - Generate all permutations (with/without duplicates)
@@ -55,7 +63,7 @@ A comprehensive collection of **Data Structures & Algorithms** implemented in Ja
 - Maze path finder
 - Knight's tour validation
 
-### 8. Linked List
+### 9. Linked List
 - Custom implementation (singly, doubly, circular)
 - Reverse linked list
 - Find middle node
@@ -66,7 +74,7 @@ A comprehensive collection of **Data Structures & Algorithms** implemented in Ja
 - Reverse in K-groups
 - Pairwise swap
 
-### 9. Stack & Queue
+### 10. Stack & Queue
 - Stack implementations (array, ArrayList, LinkedList)
 - Queue implementations (DLL, circular, using stacks)
 - Valid parentheses
@@ -82,7 +90,7 @@ A comprehensive collection of **Data Structures & Algorithms** implemented in Ja
 - LRU cache
 - First unique character
 
-### 10. Binary Tree
+### 11. Binary Tree
 - Build tree from preorder
 - Traversals (preorder, inorder, postorder, level order)
 - Height, count nodes, sum of nodes
@@ -96,7 +104,7 @@ A comprehensive collection of **Data Structures & Algorithms** implemented in Ja
 - Morris inorder traversal
 - Flatten to linked list
 
-### 11. Binary Search Tree (BST)
+### 12. Binary Search Tree (BST)
 - Build BST from sorted array
 - Search, insert, delete
 - Validate BST
@@ -107,14 +115,6 @@ A comprehensive collection of **Data Structures & Algorithms** implemented in Ja
 - Recover BST (two swapped nodes)
 - Maximum sum BST in binary tree
 - Inorder predecessor & successor
-
-### 12. Mathematical Utilities
-- Prime check
-- Sieve of Eratosthenes
-- Armstrong number
-- GCD & LCM
-- Palindrome number
-- Fast exponentiation (power)
 
 ---
 
