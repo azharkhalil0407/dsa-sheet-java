@@ -1,7 +1,7 @@
 # Java DSA Sheet
 
 A comprehensive collection of **Data Structures & Algorithms** implemented in Java.
-- **LeetCode:** https://leetcode.com/u/_azhar_khalil/ (97 problems solved)
+- **LeetCode:** https://leetcode.com/u/_azhar_khalil/ 
 
 [![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://java.com)
 
